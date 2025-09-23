@@ -21,12 +21,12 @@ This folder contains additional details and visualizations for **PS-LPCD** and *
 - **PS-LPCD:**  
   ![PS-LPCD Class Distribution](dataset_info/class_instance_distribution_PS-LPCD.png)  
   [Download PNG](dataset_info/class_instance_distribution_PS-LPCD.png)  
-  [Download CSV](dataset_info/class_instance_distribution_PS-LPCD.csv)  
+  [Download CSV](dataset_info/class_instance_distribution_PS-LPCD.xlsx)  
 
 - **PR-LPCD:**  
   ![PR-LPCD Class Distribution](dataset_info/class_instance_distribution_PR-LPCD.png)  
   [Download PNG](dataset_info/class_instance_distribution_PR-LPCD.png)  
-  [Download CSV](dataset_info/class_instance_distribution_PR-LPCD.csv)  
+  [Download CSV](dataset_info/class_instance_distribution_PR-LPCD.xlsx)  
 
 ### License Plate Templates
 
