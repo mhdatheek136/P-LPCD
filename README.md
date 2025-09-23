@@ -1,14 +1,23 @@
 
 # Punjab Pakistan Synthetic and Real License Plate Character Datasets (P-LPCD)
 
-This repository contains all code, scripts, and supporting files for the **Punjab Pakistan License Plate Character Datasets (P-LPCD)**, including:
+This repository contains all code, scripts, and supporting files for the **Punjab Pakistan License Plate Character Datasets (P-LPCD)**, which consists of **two sub-datasets**:
 
-- **PS-LPCD:** Synthetic dataset generation scripts and utilities for pretraining.  
-- **PR-LPCD:** Real-world dataset scripts and annotations for fine-tuning and evaluation.  
-- **dataset_info/:** Metadata, visualizations, class distributions, templates, and sample variations.  
-- **synthetic_generator/:** Code for generating your own PS-LPCD synthetic dataset.  
+- **PS-LPCD** (Punjab Synthetic License Plate Character Dataset)  
+  - Synthetic dataset for pretraining  
+  - Includes scripts and utilities to generate synthetic license plate characters  
 
-> ⚠️ **Note:** The datasets are specifically created for **Punjab, Pakistan license plates**, using **only 4 official templates** for synthetic generation. They are **not general/global license plate datasets**.
+- **PR-LPCD** (Punjab Real License Plate Character Dataset)  
+  - Real-world dataset for fine-tuning and evaluation  
+  - Includes annotated images of actual Punjab license plates  
+
+Additional supporting files and folders:
+
+- **dataset_info/**: Metadata, visualizations, class distributions, license plate templates, and sample variations  
+- **synthetic_generator/**: Code to generate your own PS-LPCD synthetic dataset  
+
+> ⚠️ **Note:** Both datasets are specifically created for **Punjab, Pakistan license plates** using **only 4 official templates** for synthetic generation.  
+> They are **not general or global license plate datasets**.
 
 ---
 
