@@ -41,7 +41,6 @@ This folder contains additional details and visualizations for **PS-LPCD** and *
 - Sample images from **PS-LPCD** after applying real-life variations (noise, blur, lighting changes).
 
 > **Note:** These files are for documentation and analysis only.  
-> The main dataset (images + YOLO annotations) is in the folders **PS-LPCD/** and **PR-LPCD/**.
 
 ---
 
@@ -94,7 +93,7 @@ The `synthetic_generator/` folder contains **code and scripts** to generate your
 
 ## Test Videos (`test_videos/`)
 
-This folder contains **5 sample videos (~40 MB each)** demonstrating license plates in real-world conditions.  
+This folder contains **5 sample videos (~40 MB each)** that can be used to test the License Plate Character Dataset (LPCD) in real-world conditions.
 
 > ⚠️ **Git LFS is required** to download the full videos. After cloning the repo:  
 ```bash
