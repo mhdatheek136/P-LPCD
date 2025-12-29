@@ -117,7 +117,7 @@ git lfs pull      # downloads the actual video files
 If you use **P-LPCD** in research, please cite the Zenodo dataset:
 
 ```
-[Authors], Punjab Pakistan Synthetic and Real License Plate Character Datasets (P-LPCD), Zenodo, 2025. DOI: [DOI here]
+Mohamed Rafi, A., Mohamed Buhary, F. A. F., & Ishaq Khan, A. (2025). Punjab Pakistan Synthetic and Real License Plate Character Datasets (P-LPCD) (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17182320
 ```
 
 ---
